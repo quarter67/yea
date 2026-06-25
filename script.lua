@@ -15,3 +15,4 @@ if _fwbst9s then
 else
 	error("NightFall: failed to load script")
 end
+thanks
